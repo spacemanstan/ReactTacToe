@@ -3,13 +3,6 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 
 class Square extends React.Component {
-    constructor(props) {
-        super(props);
-        this.state = {
-            value: null,
-        };
-    }
-
     render() {
         return (
             // call board handleClick(i) method from square
