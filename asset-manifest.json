@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactTacToe/static/css/main.0da3f872.css",
+    "main.js": "/ReactTacToe/static/js/main.764b1bd0.js",
+    "index.html": "/ReactTacToe/index.html",
+    "main.0da3f872.css.map": "/ReactTacToe/static/css/main.0da3f872.css.map",
+    "main.764b1bd0.js.map": "/ReactTacToe/static/js/main.764b1bd0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0da3f872.css",
+    "static/js/main.764b1bd0.js"
+  ]
+}
