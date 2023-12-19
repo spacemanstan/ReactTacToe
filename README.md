@@ -1,2 +1,4 @@
 # ReactTacToe
- Following the react tutorial to familiarize myself
+Simple Tic Tac Toe game made in React
+
+try it [here](https://spacemanstan.github.io/ReactTacToe/)
